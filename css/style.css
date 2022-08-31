@@ -1,0 +1,23 @@
+
+.jumbotron {
+    height: 65vh;
+    background-image: url(../imgs/hero.jpg);
+    background-size: cover;
+    background-position: center
+}
+
+.c > img {
+    width: 18rem;
+    height: 20rem;
+}
+
+.foot-photo > img {
+    width: 95%;
+    height: 100%;
+}
+
+@media (min-width: 768px) {
+    .map {
+        width: 90%;
+    }
+ }
